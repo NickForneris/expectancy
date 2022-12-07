@@ -42,7 +42,7 @@ function App() {
       Enter some arbitrary number for Max Risk (this is just an input to show the Necessary Rate of Return<br></br>
       is soley dependant on Chance of Profit)
       </p>
-      <p><strong>*Please Note:</strong> I assuming every trade ends up at Max Profit or Max Loss</p>
+      <p><strong>*Please Note:</strong> I assume every trade ends up at Max Profit or Max Loss</p>
 
       <div className="container-fluid">
         <div class="row justify-content-center">
