@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "370a12f73d58d8285557",
+    "revision": "f9dc21dcf472a9c22ca3",
     "url": "/expectancy/static/css/main.216a562a.chunk.css"
   },
   {
-    "revision": "370a12f73d58d8285557",
-    "url": "/expectancy/static/js/main.370a12f7.chunk.js"
+    "revision": "f9dc21dcf472a9c22ca3",
+    "url": "/expectancy/static/js/main.f9dc21dc.chunk.js"
   },
   {
     "revision": "518d4b8de7eccf59a226",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/expectancy/static/js/runtime~main.3f673994.js"
   },
   {
-    "revision": "4fcab6d2c4b93f78dc3176fb244d38ad",
+    "revision": "dea20870feb78e49f4383d8f87cd59ab",
     "url": "/expectancy/index.html"
   }
 ];

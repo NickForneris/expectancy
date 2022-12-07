@@ -1,7 +1,7 @@
 {
   "main.css": "/expectancy/static/css/main.216a562a.chunk.css",
-  "main.js": "/expectancy/static/js/main.370a12f7.chunk.js",
-  "main.js.map": "/expectancy/static/js/main.370a12f7.chunk.js.map",
+  "main.js": "/expectancy/static/js/main.f9dc21dc.chunk.js",
+  "main.js.map": "/expectancy/static/js/main.f9dc21dc.chunk.js.map",
   "static/css/1.46678f25.chunk.css": "/expectancy/static/css/1.46678f25.chunk.css",
   "static/js/1.518d4b8d.chunk.js": "/expectancy/static/js/1.518d4b8d.chunk.js",
   "static/js/1.518d4b8d.chunk.js.map": "/expectancy/static/js/1.518d4b8d.chunk.js.map",
@@ -10,6 +10,6 @@
   "static/css/main.216a562a.chunk.css.map": "/expectancy/static/css/main.216a562a.chunk.css.map",
   "static/css/1.46678f25.chunk.css.map": "/expectancy/static/css/1.46678f25.chunk.css.map",
   "index.html": "/expectancy/index.html",
-  "precache-manifest.6dc2e94a3a797816823f8b8f5ddef950.js": "/expectancy/precache-manifest.6dc2e94a3a797816823f8b8f5ddef950.js",
+  "precache-manifest.d92538748f65a2ec175ba0f142f312a9.js": "/expectancy/precache-manifest.d92538748f65a2ec175ba0f142f312a9.js",
   "service-worker.js": "/expectancy/service-worker.js"
 }
