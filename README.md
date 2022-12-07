@@ -1,1 +1,1 @@
-Expectancy Work Around Calculator
+[Expectancy Work Around Calculator](https://nickforneris.github.io/expectancy/)
